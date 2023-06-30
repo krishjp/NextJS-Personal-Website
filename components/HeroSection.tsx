@@ -12,24 +12,24 @@ const HeroSection = () => {
           <Image
             src="/headshot.png"
             alt=""
-            width={325}
-            height={325}
+            width={350}
+            height={350}
             className="rounded-full shadow-2xl"
           />
         </div>
         <div className="md:mt-2 md:w-3/5">
-          <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-7xl">Hi, I&#39;m Hosna!</h1>
+          <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-7xl">Hi, I&#39;m Krish!</h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a{" "}
-            <span className="font-semibold text-teal-600">
-              Software Engineer{" "}
+            <span className="font-semibold text-amber-500">
+              C.S. Student{" "}
             </span>
-            based in Los Angeles, CA. Working towards creating software that
-            makes life easier and more meaningful.
+            based in Torrance, CA. Working towards a B.S. in Computer Science in order to create software that
+            makes life easier and a little more fun!
           </p>
           <Link
             to="projects"
-            className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
+            className="text-neutral-100 font-semibold px-6 py-3 bg-amber-500 rounded shadow hover:bg-amber-700"
             activeClass="active"
             spy={true}
             smooth={true}
