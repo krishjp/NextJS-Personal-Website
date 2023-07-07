@@ -46,7 +46,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              My Beleifs Section Under Construction
+              My Beliefs Section Under Construction
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">

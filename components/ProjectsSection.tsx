@@ -6,30 +6,30 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Realsy",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "Realsy is a web app that helps individuals find the perfect Real Estate Agent for their needs!",
+    image: "/realsy.png",
+    github: "https://github.com/bkim3164/realsy",
+    link: "https://github.com/bkim3164/realsy",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Console Based Black Jack",
+    description: "A simple console based blackjack game created using Python",
+    image: "/blackjack.png",
+    github: "https://github.com/krishjp/Console-BlackJack",
+    link: "https://github.com/krishjp/Console-BlackJack",
   },
   {
-    name: "Kator Family Photos",
-    description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    name: "Basic Tic Tac Toe w/ Sockets",
+    description: "A simple two player version of Tic-Tac-Toe that can be run on seperate devices on the same network using Python's socket library!",
+    image: "/tictactoe.png",
+    github: "https://github.com/krishjp/TacTacToe-Sockets",
+    link: "https://github.com/krishjp/TacTacToe-Sockets",
   },
 ]
 
+//https://github.com/hqasmei/platoio
 const ProjectsSection = () => {
   return (
     <section id="projects">
