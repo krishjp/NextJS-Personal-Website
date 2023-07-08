@@ -29,7 +29,6 @@ const projects = [
   },
 ]
 
-//https://github.com/hqasmei/platoio
 const ProjectsSection = () => {
   return (
     <section id="projects">
@@ -48,7 +47,7 @@ const ProjectsSection = () => {
                     <Link href={project.link}>
                       <Image
                         src={project.image}
-                        alt=""
+                        alt="Loading"
                         width={1000}
                         height={1000}
                         className="rounded-xl shadow-xl hover:opacity-70"
