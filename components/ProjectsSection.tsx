@@ -27,6 +27,13 @@ const projects = [
     github: "https://github.com/krishjp/TacTacToe-Sockets",
     link: "https://github.com/krishjp/TacTacToe-Sockets",
   },
+  {
+    name: "ZotBins",
+    description: "A UCI Project on Smart Spaces focused on decreasing waste mis-classification on campus.",
+    image: "/zotbins-logo-blinky-slow.png",
+    github: "https://github.com/zotbins",
+    link: "https://zotbins.github.io/",
+  },
 ]
 
 const ProjectsSection = () => {
