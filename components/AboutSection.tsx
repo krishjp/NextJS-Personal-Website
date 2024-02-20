@@ -37,8 +37,8 @@ const AboutSection = () => {
             <br />
             <p>
               Building upon my desire to create and build, a desire I enhanced during my time within my highschool FRC Robotics team, 
-              I love tinkering with small projects that help me explore new sub-fields within the world on computers. 
-              This is futher amplified by the vast amount of resources that I can call upon to built new and create projects!
+              I love tinkering with small projects that help me explore new subfields within the world on computers. 
+              This is further amplified by the vast amount of resources that I can call upon to build new and create projects!
             </p>
             <br />
             <p>
@@ -48,8 +48,8 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I strongly beleive that two core skills that are necessary to be succesful are hard work and dedication. 
-              Working alonside multiple project teams at UCI and throughout highschool has solidified my work ethic 
+              I strongly believe that two core skills that are necessary to be successful are hard work and dedication. 
+              Working alongside multiple project teams at UCI and throughout highschool has solidified my work ethic 
               and allowed me to become a more resourceful and dependable resource within my teams.
             </p>
           </div>

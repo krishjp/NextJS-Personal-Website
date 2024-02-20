@@ -6,6 +6,14 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "White Blood Cell CNN",
+    description:
+      "A Convolution Neural Network (973,188 parameters) to detect specific types of white-blood cells in an image using a data augmentation pipeline and a Keras Sequential Model",
+    image: "/cnnModel.png",
+    github: "https://www.kaggle.com/code/krishjp2/white-blood-dcnn",
+    link: "https://www.kaggle.com/code/krishjp2/white-blood-dcnn",
+  },
+  {
     name: "Realsy",
     description:
       "Realsy is a web app that helps individuals find the perfect Real Estate Agent for their needs!",
